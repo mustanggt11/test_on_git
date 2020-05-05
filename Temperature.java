@@ -11,5 +11,7 @@ public class Temperature{
 	   else {
 		   System.out.println("High temperature");
 	   }
+		
+	System.out.println("Adding new changes to source");
         }
 }
