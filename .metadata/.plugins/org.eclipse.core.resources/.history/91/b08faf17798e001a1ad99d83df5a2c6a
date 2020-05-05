@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package hasaan;
+
+/**
+ * @author Hasaan Keen
+ *
+ */
+public class Hello {
+	public static void main(String args[]) {
+		System.out.println("Hello World ");
+		
+		double apples;
+		apples = 10.72;
+		
+		System.out.print("I want ");
+		System.out.print(apples);
+		
+	}
+	
+	
+}
